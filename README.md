@@ -1,4 +1,3 @@
-# Soybeans-Tempeh-Image-Dataset-for-Tempeh-Maturity-Detection
 **Authors**: Riccosan*, Soni Yora, Nur Azmi Karim, & Ezrela Fidelyn Surya Wibisana
 
 **Key Words:** Tempeh, Soybean, Ripeness, Maturity, Image, Dataset, Classification, Detection
